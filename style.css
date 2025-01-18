@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background: #d8cd39;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+header {
+    display : flex;
+    justify-content:center;
+    background-color: rgb(128, 42, 42);
+    color: black;
+    font-family:fantasy;
+}
+
+.button {
+    
+}
+
+nav {
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    display : flex;
+    justify-content: space-around;
+    background-color: rgb(162, 52, 52);
+    color: black
+}
+
+h1 {
+    display:flex;
+    justify-content:center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    text-align:center;
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+header a {
+    font-size: 100px
+}
+
+h2 {
+
+}
+
+img {
+    justify-content:space-around;
+}
+
+.pic {
+    display:flex;
+    justify-content: center;
+}
+
+div {
+    display:flex;
+    justify-content:center;
+    font-size:40px;
+    font-family:sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+}
